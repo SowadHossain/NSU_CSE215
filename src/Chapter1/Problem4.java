@@ -1,4 +1,4 @@
-package homework;
+package Chapter1;
 
 import java.lang.Math;
 
